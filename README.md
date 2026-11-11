@@ -32,7 +32,7 @@ Compétences mobilisées :
 
 ## 📷 Aperçu du tableau de bord
 
-![Tableau de bord des performances commerciales](captures/dashboard.png)
+![Tableau de bord des performances commerciales](captures/Dashboard.png)
 
 ## 📁 Structure du dépôt
 
