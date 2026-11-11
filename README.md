@@ -33,6 +33,52 @@ Compétences mobilisées :
 ## 📷 Aperçu du tableau de bord
 
 ![Tableau de bord des performances commerciales](captures/Dashboard.png)
+## 📊 Résultats et analyses
+
+L'analyse des données commerciales sur la période 2014-2017 a permis de dégager plusieurs enseignements sur la performance et la rentabilité de l'entreprise.
+
+### 🔹 Synthèse des indicateurs clés
+
+| Indicateur | Résultat |
+|---|---:|
+| Chiffre d'affaires | 2 297 201 USD |
+| Profit total | 286 397 USD |
+| Marge globale | 12,5 % |
+| Quantités vendues | 37 873 unités |
+| Lignes de vente déficitaires | 1 871 |
+| Pertes cumulées | 156 131 USD |
+
+### 🔹 Principaux constats
+
+**1. Impact des remises commerciales**
+
+Les remises élevées constituent un facteur important de pertes. Les ventes restent globalement bénéficiaires jusqu'à 20 % de remise, tandis que les remises à partir de 30 % génèrent des profits négatifs.
+
+**2. Analyse des performances régionales**
+
+La région West affiche les meilleures performances, avec une marge de 14,9 %. À l'inverse, la région Central présente la rentabilité la plus faible, avec une marge de 7,9 %.
+
+**3. Rentabilité par catégorie de produits**
+
+Les catégories Technology et Office Supplies concentrent environ 94 % du profit total. La catégorie Furniture, malgré sa contribution importante au chiffre d'affaires (32,3 %), ne représente que 6,4 % du profit.
+
+**4. Évolution du chiffre d'affaires**
+
+Le chiffre d'affaires connaît une progression globale de 51 % entre 2014 et 2017, malgré un léger recul observé en 2015.
+
+### 🔹 Recommandations issues de l'analyse
+
+À partir des résultats obtenus, plusieurs pistes d'amélioration peuvent être envisagées :
+
+- Encadrer les remises commerciales afin de limiter les ventes déficitaires.
+- Examiner les causes de la faible rentabilité de la région Central.
+- Améliorer la rentabilité de la catégorie Furniture, notamment des sous-catégories Tables et Bookcases.
+- Renforcer le suivi des catégories Technology et Office Supplies.
+- Suivre régulièrement les marges et les ventes déficitaires afin de mieux piloter la performance commerciale.
+
+### 💡 Conclusion
+
+Ce projet illustre l'utilisation de Microsoft Excel comme outil d'analyse et d'aide à la décision. Il permet de transformer des données commerciales brutes en indicateurs exploitables pour comprendre les performances, identifier les points faibles et proposer des pistes d'amélioration.
 
 ## 📁 Structure du dépôt
 
